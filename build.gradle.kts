@@ -19,6 +19,9 @@ dependencies {
     implementation("org.xerial:sqlite-jdbc:3.36.0.3")
     // PostgreSQL database plugin
     implementation("org.postgresql:postgresql:42.6.0")
+    testImplementation(kotlin("test"))
+    testImplementation("org.junit.jupiter:junit-jupiter:5.8.1")
+
 }
 
 tasks.dokkaHtml.configure {

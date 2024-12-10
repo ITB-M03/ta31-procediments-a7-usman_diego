@@ -1,32 +1,49 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:controllers////PointingToDeclaration/-git-hub-classroom-template/controllers/index.html
-$dokka.location:controllers/Ejercicio1Kt///PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/index.html
-$dokka.location:controllers/Ejercicio1Kt/calcularIVA/#kotlin.Double#kotlin.String#kotlin.String/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/calcular-i-v-a.html
-$dokka.location:controllers/Ejercicio1Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/main.html
-$dokka.location:controllers/Ejercicio1Kt/obtenirPercentatgeIVA/#kotlin.String#kotlin.String/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/obtenir-percentatge-i-v-a.html
-$dokka.location:controllers/Ejercicio1Kt/obtenirTaulaIVA/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/obtenir-taula-i-v-a.html
-$dokka.location:controllers/Ejercicio1Kt/obtenirTaulaIVA1986/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/obtenir-taula-i-v-a1986.html
-$dokka.location:controllers/Ejercicio1Kt/obtenirTaulaIVA1992/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/obtenir-taula-i-v-a1992.html
-$dokka.location:controllers/Ejercicio1Kt/obtenirTaulaIVA1993/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/obtenir-taula-i-v-a1993.html
-$dokka.location:controllers/Ejercicio1Kt/obtenirTaulaIVA1995/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/obtenir-taula-i-v-a1995.html
-$dokka.location:controllers/Ejercicio1Kt/obtenirTaulaIVA2010/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/obtenir-taula-i-v-a2010.html
-$dokka.location:controllers/Ejercicio1Kt/obtenirTaulaIVA2012/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio1-kt/obtenir-taula-i-v-a2012.html
 $dokka.location:controllers/Ejercicio2Kt///PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio2-kt/index.html
 $dokka.location:controllers/Ejercicio2Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio2-kt/main.html
 $dokka.location:controllers/Ejercicio2Kt/obtenirValorRoman/#kotlin.Int/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio2-kt/obtenir-valor-roman.html
 $dokka.location:controllers/Ejercicio2Kt/roman/#kotlin.Int/PointingToDeclaration/-git-hub-classroom-template/controllers/-ejercicio2-kt/roman.html
+$dokka.location:controllers/Ex3Kt///PointingToDeclaration/-git-hub-classroom-template/controllers/-ex3-kt/index.html
+$dokka.location:controllers/Ex3Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-ex3-kt/main.html
+$dokka.location:controllers/Ex3Kt/validarSuperusuari/#kotlin.String/PointingToDeclaration/-git-hub-classroom-template/controllers/-ex3-kt/validar-superusuari.html
+$dokka.location:controllers/Ex4Kt///PointingToDeclaration/-git-hub-classroom-template/controllers/-ex4-kt/index.html
+$dokka.location:controllers/Ex4Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-ex4-kt/main.html
+$dokka.location:controllers/Ex4Kt/titol/#kotlin.String/PointingToDeclaration/-git-hub-classroom-template/controllers/-ex4-kt/titol.html
+$dokka.location:controllers/Ex5Kt///PointingToDeclaration/-git-hub-classroom-template/controllers/-ex5-kt/index.html
+$dokka.location:controllers/Ex5Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-ex5-kt/main.html
+$dokka.location:controllers/Ex5Kt/mostrarMenu/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-ex5-kt/mostrar-menu.html
+$dokka.location:controllers/Pila///PointingToDeclaration/-git-hub-classroom-template/controllers/-pila/index.html
+$dokka.location:controllers/Pila/Pila/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-pila/-pila.html
+$dokka.location:controllers/Pila/mostrarContingut/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-pila/mostrar-contingut.html
+$dokka.location:controllers/Pila/pop/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-pila/pop.html
+$dokka.location:controllers/Pila/push/#kotlin.Int/PointingToDeclaration/-git-hub-classroom-template/controllers/-pila/push.html
+$dokka.location:controllers/Pila/top/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-pila/top.html
 $dokka.location:interfaces////PointingToDeclaration/-git-hub-classroom-template/interfaces/index.html
 $dokka.location:interfaces/MyInterface///PointingToDeclaration/-git-hub-classroom-template/interfaces/-my-interface/index.html
 $dokka.location:models////PointingToDeclaration/-git-hub-classroom-template/models/index.html
 $dokka.location:models/MyModel///PointingToDeclaration/-git-hub-classroom-template/models/-my-model/index.html
 $dokka.location:models/MyModel/MyModel/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/-my-model.html
 $dokka.location:models/MyModel/function/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/function.html
+$dokka.location:org.example.controllers////PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/index.html
+$dokka.location:org.example.controllers/Ejercicio1Kt///PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/index.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/calcularIVA/#kotlin.Double#kotlin.String#kotlin.String/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/calcular-i-v-a.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/main.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/obtenirPercentatgeIVA/#kotlin.String#kotlin.String/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/obtenir-percentatge-i-v-a.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/obtenirTaulaIVA/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/obtenir-taula-i-v-a.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/obtenirTaulaIVA1986/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/obtenir-taula-i-v-a1986.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/obtenirTaulaIVA1992/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/obtenir-taula-i-v-a1992.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/obtenirTaulaIVA1993/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/obtenir-taula-i-v-a1993.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/obtenirTaulaIVA1995/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/obtenir-taula-i-v-a1995.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/obtenirTaulaIVA2010/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/obtenir-taula-i-v-a2010.html
+$dokka.location:org.example.controllers/Ejercicio1Kt/obtenirTaulaIVA2012/#java.util.Date/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-ejercicio1-kt/obtenir-taula-i-v-a2012.html
 $dokka.location:utilities////PointingToDeclaration/-git-hub-classroom-template/utilities/index.html
 $dokka.location:utilities/MyUtilsKt///PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/index.html
 $dokka.location:utilities/MyUtilsKt/readSomething/#/PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/read-something.html
 controllers
 interfaces
 models
+org.example.controllers
 utilities
 
