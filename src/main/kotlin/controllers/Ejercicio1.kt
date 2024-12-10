@@ -3,7 +3,8 @@ import java.text.SimpleDateFormat
 import java.util.*
 /**
  * Obté la taula de l'IVA vigent a partir de l'any 1986.
- *
+ * @author Diego Morales
+ * @since 10/12/2024
  * @param data La data de la compra que es vol consultar.
  * @return Retorna un mapa amb els tipus d'IVA disponibles en funció de la data.
  */
@@ -22,7 +23,6 @@ fun obtenirTaulaIVA1986(data: Date): Map<String, Double> {
 }
 /**
  * Obté la taula de l'IVA vigent a partir de l'any 1992.
- *
  * @param data La data de la compra que es vol consultar.
  * @return Retorna un mapa amb els tipus d'IVA disponibles en funció de la data.
  */
@@ -41,7 +41,6 @@ fun obtenirTaulaIVA1992(data: Date): Map<String, Double> {
 }
 /**
  * Obté la taula de l'IVA vigent a partir de l'any 1993.
- *
  * @param data La data de la compra que es vol consultar.
  * @return Retorna un mapa amb els tipus d'IVA disponibles en funció de la data.
  */
@@ -60,7 +59,6 @@ fun obtenirTaulaIVA1993(data: Date): Map<String, Double> {
 }
 /**
  * Obté la taula de l'IVA vigent a partir de l'any 1995.
- *
  * @param data La data de la compra que es vol consultar.
  * @return Retorna un mapa amb els tipus d'IVA disponibles en funció de la data.
  */
@@ -79,7 +77,6 @@ fun obtenirTaulaIVA1995(data: Date): Map<String, Double> {
 }
 /**
  * Obté la taula de l'IVA vigent a partir de l'any 2010.
- *
  * @param data La data de la compra que es vol consultar.
  * @return Retorna un mapa amb els tipus d'IVA disponibles en funció de la data.
  */
@@ -98,7 +95,6 @@ fun obtenirTaulaIVA2010(data: Date): Map<String, Double> {
 }
 /**
  * Obté la taula de l'IVA vigent a partir de l'any 2012.
- *
  * @param data La data de la compra que es vol consultar.
  * @return Retorna un mapa amb els tipus d'IVA disponibles en funció de la data.
  */
@@ -117,7 +113,6 @@ fun obtenirTaulaIVA2012(data: Date): Map<String, Double> {
 }
 /**
  * Obté el percentatge d'IVA aplicable a una compra segons la data i el tipus d'IVA.
- *
  * @param dataCompra La data de la compra en format "dd-MM-yyyy".
  * @param tipusIVA El tipus d'IVA a calcular ("General", "Reduït", etc.).
  * @return El percentatge d'IVA aplicat.
@@ -130,7 +125,6 @@ fun obtenirPercentatgeIVA(dataCompra: String, tipusIVA: String): Double {
 }
 /**
  * Obté la taula d'IVA vigent en funció de la data de la compra, iterant sobre diversos anys.
- *
  * @param data La data de la compra que es vol consultar.
  * @return El mapa amb els tipus d'IVA vigents en la data indicada.
  */
@@ -145,7 +139,6 @@ fun obtenirTaulaIVA(data: Date): Map<String, Double> {
 }
 /**
  * Calcula el preu amb IVA aplicat.
- *
  * @param preu El preu base del producte.
  * @param tipusIVA El tipus d'IVA a aplicar ("General", "Reduït", etc.).
  * @param dataCompra La data de la compra en format "dd-MM-yyyy".
@@ -156,7 +149,7 @@ fun calcularIVA(preu: Double, tipusIVA: String, dataCompra: String): Double {
     return preu * (1 + percentatgeIVA / 100)
 }
 /**
- * ús de la funció calcularIVA.
+ * us de la funció calcularIVA.
  */
 fun main() {
     val format = SimpleDateFormat("dd-MM-yyyy")
